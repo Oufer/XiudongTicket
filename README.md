@@ -28,6 +28,6 @@ test：测试抢购姜云升演出，可以正常登录使用selenium调用浏�
 ![545c0ec374b829c56a9ac891832f589](https://user-images.githubusercontent.com/50318531/170515312-c957d12f-188a-47ab-835e-89bde5f855d9.png)
 
 
-4.欢迎讨论技术上问题，需要帮忙调试可以联系wechat:15818337112提供有偿解答
+
 *
 https://github.com/yangn0/Xiudong-Script -> 提供了思路
